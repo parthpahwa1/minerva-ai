@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+game_sdk==0.1.2
+tweepy==4.15.0
+langchain==0.3.15
+rapidfuzz==3.11.0
